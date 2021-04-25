@@ -3,7 +3,6 @@ package com.example.baithi.controller;
 import com.example.baithi.model.City;
 import com.example.baithi.model.Country;
 import com.example.baithi.service.city.CityService;
-import com.example.baithi.service.city.ICityService;
 import com.example.baithi.service.country.CountryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
